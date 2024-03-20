@@ -20,3 +20,5 @@ Cara install
 - Composer Install
 - php artisan key:generate
 - Import Database MYSQL
+
+<img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://i.postimg.cc/hGs2ymBg/screencapture-localhost-8000-login-2024-03-20-17-22-28.png)https://i.postimg.cc/hGs2ymBg/screencapture-localhost-8000-login-2024-03-20-17-22-28.png" width="400" alt="Laravel Logo">
