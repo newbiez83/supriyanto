@@ -21,4 +21,6 @@ Cara install
 - php artisan key:generate
 - Import Database MYSQL
 
-<img src="https://i.postimg.cc/hGs2ymBg/screencapture-localhost-8000-login-2024-03-20-17-22-28.png" width="400" alt="Laravel Logo">
+<img src="https://i.postimg.cc/hGs2ymBg/screencapture-localhost-8000-login-2024-03-20-17-22-28.png">
+<img src="https://i.postimg.cc/Kv5x59HH/screencapture-localhost-8000-register-2024-03-20-17-22-48.png">
+<img src="https://i.postimg.cc/3NtYC18G/screencapture-localhost-8000-dashboard-2024-03-20-17-23-18.png">
